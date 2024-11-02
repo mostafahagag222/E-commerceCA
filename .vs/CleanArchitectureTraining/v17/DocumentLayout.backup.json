@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\ishippingmethodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\ishippingmethodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\ipaymentlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\ipaymentlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C255530-0C78-487F-8CCE-B4228FD17212}|InfraStructure\\InfraStructure.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\infrastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C255530-0C78-487F-8CCE-B4228FD17212}|InfraStructure\\InfraStructure.csproj|solutionrelative:infrastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C255530-0C78-487F-8CCE-B4228FD17212}|InfraStructure\\InfraStructure.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C255530-0C78-487F-8CCE-B4228FD17212}|InfraStructure\\InfraStructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C255530-0C78-487F-8CCE-B4228FD17212}|InfraStructure\\InfraStructure.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\infrastructure\\repositories\\shippingmethodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C255530-0C78-487F-8CCE-B4228FD17212}|InfraStructure\\InfraStructure.csproj|solutionrelative:infrastructure\\repositories\\shippingmethodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|c:\\users\\mostafa\\source\\repos\\cleanarchitecturetraining\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BDB927-37AA-474D-8F19-523FE1F6BA66}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:38:33.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShippingMethodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IShippingMethodRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IShippingMethodRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IShippingMethodRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IShippingMethodRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:38:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:37:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPaymentLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IPaymentLogRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IPaymentLogRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IPaymentLogRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IPaymentLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:37:19.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:37:13.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IOrderItemRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:36:58.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\ICartItemRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\ICartItemRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:36:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:35:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:34:51.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\InfraStructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\InfraStructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "InfraStructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:33:58.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\InfraStructure\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\InfraStructure\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "InfraStructure\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:20:31.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShippingMethodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\InfraStructure\\Repositories\\ShippingMethodRepository.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\Repositories\\ShippingMethodRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\InfraStructure\\Repositories\\ShippingMethodRepository.cs",
+              "RelativeToolTip": "InfraStructure\\Repositories\\ShippingMethodRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:20:28.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:20:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\Mostafa\\source\\repos\\CleanArchitectureTraining\\Domain\\Interfaces\\Repositories\\IBrandRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:18:05.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
